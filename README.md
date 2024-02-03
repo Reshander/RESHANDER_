@@ -1,8 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Reshander</h1>
+![MasterHead](https://user-images.githubusercontent.com/70836668/107123065-77093100-68c1-11eb-9385-3504e8723313.gif)
+<h1 align="center">Hello 👋, I'm Reshander</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshander&label=Profile%20views&color=0e75b6&style=flat" alt="reshander" /> </p>
 
