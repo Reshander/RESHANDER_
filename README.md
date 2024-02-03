@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Reshander</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
+
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshander&label=Profile%20views&color=0e75b6&style=flat" alt="reshander" /> </p>
 
@@ -7,9 +10,9 @@
 
 - 💬 Ask me about **<JavaScript,React>**
 
-- 📫 How to reach me **www.linkedin.com/in/reshander-911327231**
+- 📫 How to reach me **padakalareshnder@gmail.com** **www.linkedin.com/in/reshander-911327231**
 
-- ⚡ Fun fact **"Frontend developers spend  months mastering code, turning coffee into websites, and occasionally arguing with browsers. The struggle is real, but so are the laughs!"**
+- ⚡ Fun fact **"Frontend developers spend months mastering code, turning coffee into websites, and occasionally arguing with browsers. The struggle is real, but so are the laughs!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
