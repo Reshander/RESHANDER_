@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/reshander-911327231**
 
-- ⚡ Fun fact **"Frontend developers spend few months mastering code, turning coffee into websites, and occasionally arguing with browsers. The struggle is real, but so are the laughs!"**
+- ⚡ Fun fact **"Frontend developers spend  months mastering code, turning coffee into websites, and occasionally arguing with browsers. The struggle is real, but so are the laughs!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
