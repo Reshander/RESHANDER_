@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/70836668/107123065-77093100-68c1-11eb-9385-3504e8723313.gif)
+
 <h1 align="center">Hello 👋, I'm Reshander</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
 
