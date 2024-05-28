@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BACKEND**
 
-- 💬 Ask me about **<JavaScript,React.js>**
+- 💬 Ask me about **<JavaScript,React.js,Angular>**
 
 - 📫 How to reach me **padakalareshnder@gmail.com** **www.linkedin.com/in/reshander-911327231**
 
